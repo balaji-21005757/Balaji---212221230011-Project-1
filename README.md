@@ -1,58 +1,70 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+# Hand Gesture Recognition System Using Deep Learning
+
+## Small Description
+
+The Hand Gesture Recognition System aims to facilitate human-computer interaction by recognizing hand gestures in real-time, enabling users to control applications through intuitive gestures. This project leverages deep learning techniques to accurately classify various hand gestures, enhancing user experience across multiple domains.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+
+The Hand Gesture Recognition System is designed to utilize advanced neural networks for the detection and classification of hand gestures from live camera feeds. Traditional input methods often limit interaction in digital environments, making gesture recognition a powerful alternative. By developing a user-friendly interface that processes real-time video input, this project addresses the need for efficient and natural interaction in both consumer and assistive technology applications.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+
+Advanced Neural Network Implementation: Utilizes state-of-the-art deep learning architectures for accurate gesture classification.
+
+Real-time Gesture Recognition: Processes live video feed to recognize gestures instantly, enhancing user interaction.
+
+High Scalability: Designed to support multiple gestures, making it adaptable for various applications.
+
+Optimized Performance: Reduced time complexity ensures quick response and interaction, providing a smooth user experience.
+
+Customizable Output: Specific gesture recognition tailored for different applications, using JSON data format for easy integration.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+
+Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
+
+Development Environment: Python 3.6 or later is necessary for coding the hand gesture recognition system.
+
+Deep Learning Frameworks: TensorFlow for model training and Keras for neural network implementation.
+
+Image Processing Libraries: OpenCV is essential for efficient image processing and real-time gesture detection.
+
+Version Control: Implementation of Git for collaborative development and effective code management.
+
+IDE: Use of VSCode Or Google Colab.
+
+Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1 or later), TensorFlow GPU, and MediaPipe for enhanced gesture recognition.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![image](https://github.com/user-attachments/assets/24f1fae1-9bba-4268-85cc-c406821a7602)
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+![image](https://github.com/user-attachments/assets/514d046d-40b7-43e1-a030-ac5300ef0369)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![image](https://github.com/user-attachments/assets/343a359e-74ac-4e0b-955f-ee35c4bbac62)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+![image](https://github.com/user-attachments/assets/e7fb7731-3fff-4705-b41e-8fd75f2a9528)
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The Hand Gesture Recognition System enhances accessibility and interaction for users, providing a valuable tool for intuitive human-computer interaction. The integration of computer vision and deep learning demonstrates the project's potential for various applications, including gaming, accessibility tools, and smart home devices.
+This project serves as a foundation for future developments in gesture-based interaction technologies, contributing to creating a more interactive and accessible digital environment.
 
-## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+## Articles Published / References
+
+•Khan, A., Sohail, A., Zahoora, U., & Qureshi, A. S. (2018). Real-Time Hand Gesture Recognition Using Deep Learning Techniques. IEEE Access, 6, 38853-38859.
+
+•Li, Y., Tian, L., & Liu, X. (2019). Hand Pose Estimation via Deep Learning for Sign Language Recognition. Journal of Visual Communication and Image Representation, 61, 155-162.
+
+•Zhang, Z., Wu, Y., Lu, Z., & Zhang, S. (2020). Mediapipe Hands: On-device Real-time Hand Tracking and Gesture Recognition. Google Research.
+
+•Berrio, C., Arguello, J., & Meza, M. (2021). Gesture Recognition with a Convolutional Neural Network and Transfer Learning. Proceedings of the International Conference on Image Processing and Machine Learning, 48-56.
+
+•Zhang, Y., Wu, Y., Zhang, S., & Cheng, Y. (2019). A Survey on Hand Gesture Recognition Techniques. Journal of Computer Science and Technology, 34(5), 965-987. 
 
 
 
